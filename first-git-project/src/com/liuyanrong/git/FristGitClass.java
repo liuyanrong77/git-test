@@ -11,4 +11,8 @@ public class FristGitClass {
         System.out.println("Frist----git---Project---4");
         System.out.println("Frist----git---Project---5");
     }
+    public void test(){
+        int i = 0;
+        i +=10;
+    }
 }
